@@ -1,1 +1,1 @@
-projeto-victor.github.io./Site_Curriculo
+projeto-victor.github.io/Site_Curriculo
