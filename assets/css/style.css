@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: #00CED1;
   text-decoration: none;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #00CED1;
   text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #149ddd;
+  background: #00CED1;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -56,7 +56,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #2eafec;
+  background: #00CED1;
   color: #fff;
 }
 
@@ -121,7 +121,7 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background: #00CED1;
   color: #fff;
   text-decoration: none;
 }
@@ -694,7 +694,7 @@ section {
   justify-content: center;
   width: 54px;
   height: 54px;
-  background: #149ddd;
+  background: #00CED1;
   border-radius: 50%;
   transition: 0.5s;
   border: 1px solid #149ddd;
@@ -894,14 +894,14 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #149ddd;
+  background: #00CED1;
   color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #149ddd;
+  background: #00CED1;
   color: #fff;
 }
 
@@ -990,7 +990,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #149ddd;
+  background: #00CED1;
   border: 0;
   padding: 10px 24px;
   color: #fff;
