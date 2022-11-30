@@ -189,7 +189,7 @@ h6 {
 .nav-menu .active i,
 .nav-menu .active:focus i,
 .nav-menu li:hover>a i {
-  color: #149ddd;
+  color: #00CED1;
 }
 
 /* Mobile Navigation */
@@ -202,7 +202,7 @@ h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #149ddd;
+  background-color: #00CED1;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -268,7 +268,7 @@ h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid 	#00CED1;
 }
 
 @media (min-width: 1024px) {
@@ -321,7 +321,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: 	#00CED1;
   bottom: 0;
   left: 0;
 }
@@ -336,7 +336,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: 	#122f57;
 }
 
 .about .content ul {
@@ -357,7 +357,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #149ddd;
+  color: 	#00CED1;
   line-height: 0;
 }
 
@@ -450,7 +450,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #149ddd;
+  background-color: #00CED1;
 }
 
 /*--------------------------------------------------------------
